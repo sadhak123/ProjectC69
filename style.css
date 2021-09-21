@@ -1,0 +1,44 @@
+#home{
+    text-align: center;
+    color: white;
+}
+
+.line{
+    width: 85px;
+    height: 4px;
+    background-color: white;
+}
+
+#contact{
+    text-align: center;
+    color: white;
+}
+
+.achievements_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.achievements_head i {
+    float: right;
+}
+
+body{
+    background-color: black;
+}
+
+#achievementsID{
+ padding-bottom: 10px;
+}
+
+.movie_head i
+{
+float: right;
+}
+
+.movie_text span
+{
+color: #ff7700;
+}
